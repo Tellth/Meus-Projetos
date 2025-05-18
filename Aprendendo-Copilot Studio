@@ -1,7 +1,16 @@
-Resumo: Meu Primeiro Copilot com o Microsoft Copilot Studio
+# Meu Primeiro Copilot com o Microsoft Copilot Studio
 
-Durante o curso virtual, aprendi a criar meu primeiro copilot utilizando o Microsoft Copilot Studio. O conteúdo me guiou desde os conceitos básicos até a criação de um agente funcional, com foco em automação de tarefas e integração com dados.
+## Introdução
 
-Aprendi a estruturar conversas com gatilhos e fluxos personalizados, usando a interface intuitiva de arrastar e soltar do Copilot Studio. Também entendi como conectar o copilot a fontes externas, como Dataverse, SharePoint e APIs externas, permitindo respostas dinâmicas e inteligentes.
+Durante um curso virtual, desenvolvi meu **primeiro copiloto** utilizando o **Microsoft Copilot Studio**. O conteúdo abordou desde os conceitos iniciais até a construção de um agente funcional, com foco em **automação de tarefas** e **integração com dados**.
 
-Além disso, explorei o uso de variáveis, condições lógicas e chamadas a ações externas, o que tornou o meu copilot mais interativo e útil para resolver problemas específicos. Ao final, publiquei e testei meu copilot em canais como Microsoft Teams, o que me deu uma visão prática de como ele pode ser usado em ambientes reais.
+## Principais Aprendizados
+
+- **Criação de fluxos personalizados**  
+  Aprendi a estruturar conversas usando **gatilhos** e **fluxos personalizados**, aproveitando a interface intuitiva de **arrastar e soltar** do Copilot Studio.
+
+- **Integração com fontes externas**  
+  Conectei o copiloto a diferentes fontes de dados, como **Dataverse**, **SharePoint** e **APIs externas**, permitindo que as respostas fossem dinâmicas e inteligentes.
+
+- **Uso de lógica e variáveis**  
+  Explorei o uso de **variáveis**, **condições lógicas** e **chamadas a ações externas**, tornando o copiloto mais interativo e eficaz na resolução de problemas.
