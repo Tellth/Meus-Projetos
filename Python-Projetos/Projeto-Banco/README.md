@@ -9,7 +9,6 @@ Este projeto simula as principais funcionalidades de um sistema bancário simple
 - Criação de contas bancárias
 - Depósitos
 - Saques
-- Transferências entre contas
 - Histórico de transações
 - Autenticação de usuários (básica)
 
