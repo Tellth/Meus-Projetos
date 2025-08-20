@@ -31,4 +31,4 @@ Ele permite que o usuário selecione uma pasta no computador e faça o backup au
 1. Certifique-se de ter o **Python 3** instalado.
 2. Baixe/clique com o botão direito no código e salve em um arquivo, por exemplo:  
    ```bash
-   backup.py
+   py Proj-Backup.py
