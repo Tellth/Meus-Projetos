@@ -1,5 +1,5 @@
 # aba de seleção da pasta a ser copiada do pc
-import os
+import oss
 import shutil
 import datetime
 import tkinter.filedialog as  fidia
@@ -28,3 +28,4 @@ for arquivo in lista_arquivos:
         shutil.copy2(caminho_completo_arquivo_origem, caminho_completo_arquivo_backup)
     elif f"{caminho_pasta_de_backup}" != arquivo:
         shutil.copytree(caminho_completo_arquivo_origem, caminho_completo_arquivo_backup)
+
