@@ -1,32 +1,12 @@
-# 🚀 Meus Projetos de Aprendizado
+# Meus Projetos
 
-Bem-vindo ao meu repositório!  
-Aqui estou registrando minha **jornada de aprendizado em programação**, começando por **Python** e, no futuro, expandindo para outras linguagens voltadas para **Back-End**.  
+Portfólio da minha jornada em programação (Python foco inicial)
 
-## 📌 Objetivo
-- Praticar lógica de programação e boas práticas de código.
-- Criar pequenos projetos para treinar conceitos.
-- Evoluir gradualmente para projetos mais complexos.
-- Explorar outras linguagens além de Python no futuro.
+## Projetos destacados
+- **[Sistema Bancário Simples](https://github.com/Tellth/sistema-bancario-python)**  
+  Gerenciamento de contas, transações e extrato
 
-## 🐍 Atualmente estudando
-- Python (focado em fundamentos, POO, automação e pequenos sistemas).
+- **[Backup Semi-Automático](https://github.com/Tellth/backup-semi-automatico)**  
+  Sistema para backup de arquivos com automação básica
 
-## 🔮 Próximos passos
-- Aprender outras linguagens de Back-End (como **JavaScript/Node.js**, **Java**, **Go** ou **C#**).
-- Praticar desenvolvimento de APIs.
-- Entender bancos de dados relacionais e não relacionais.
-- Evoluir para projetos completos de back-end.
-
-## 📂 Organização
-Cada pasta deste repositório contém:
-- Um projeto ou exercício.
-- Um `README.md` (quando necessário) explicando a ideia do projeto.
-
-## 🤝 Contribuições
-Este repositório é **pessoal e de estudos**, mas qualquer dica, sugestão ou feedback é sempre bem-vindo! 
-Sinta-se livre para usar qualquer coisa que encontrar por aqui, seja como inspiração ou copy paste, seria uma honra 😁
-
----
-
-📚 *"A prática leva à evolução. Este repositório é a prova disso."*
+Mais projetos em breve!
